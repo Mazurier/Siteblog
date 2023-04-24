@@ -180,15 +180,22 @@ main {
     font-size: 16px;
 }
 .text_rose{
-    
     color: #d05270;
+    position: relative;
     
 }
-.text_roses{
-    
-    
-    color: #d05270;
-    
+.text_rose::after{
+
+    content: "";
+    position: absolute;
+    width: 100px;
+    background: #d05270;
+    height: 3px;
+    left: 0;
+    top: 18px;
+
+            
 }
+
 
 
