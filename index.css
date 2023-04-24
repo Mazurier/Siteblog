@@ -171,6 +171,7 @@ main {
     left: 0%;
     right: 10%;
     font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
     
 }
 .paragraphes{
@@ -190,7 +191,7 @@ main {
     position: absolute;
     width: 100px;
     background: #d05270;
-    height: 3px;
+    height: 2px;
     left: 0;
     top: 18px;
     
