@@ -164,14 +164,27 @@ main {
     font-size: 16px;
     font-weight: 600;
 }
+.paragraphe{
+    position: absolute;
+    left: 0%;
+    font-size: 18px;
+    
+}
+.paragraphes{
 
+    position: absolute;
+    left: 52%;
+}
 .text_rose{
-
+    
+    color: #d05270;
+    
+}
+.text_roses{
+    position: absolute;
+    
     color: #d05270;
     
 }
 
-.paragraphe{
 
-    font-size: 18px;
-}
