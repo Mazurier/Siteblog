@@ -2,9 +2,10 @@ a,
 a:link,
 a:visited,
 a:hover,
-a:active{
+a:active {
     text-decoration: none;
 }
+
 header {
     margin-left: 15%;
     position: absolute;
@@ -13,11 +14,13 @@ header {
     height: 14%;
     width: 70%;
 }
+
 .logo {
     margin-left: 10%;
     margin-top: 1.25%;
     width: 10%;
 }
+
 .nav {
     position: absolute;
     right: 0%;
@@ -29,6 +32,7 @@ header {
     text-align: center;
     display: flex;
 }
+
 .boutton1 {
     width: fit-content;
     height: 2vw;
@@ -37,10 +41,11 @@ header {
     text-align: center;
     display: flex;
     text-decoration: none;
-    color: (#170d69);
+    color: #180d6b;
     margin-left: 25px;
     font-weight: 1000;
 }
+
 .boutton {
     width: fit-content;
     height: 2vw;
@@ -54,47 +59,69 @@ header {
     font-weight: 1000;
 }
 
-.imagefond {width: 100%;
-align-items: center;
+.imagefond {
+    width: 100%;
+    align-items: center;
 }
 
-main{position:absolute;
+main {
+    position: absolute;
     margin-top: 15%;
     margin-left: 21.5%;
     margin-right: 21.5%;
-    }
+}
 
-p {justify-content:space-around;
-    text-align:justify;
+p {
+    justify-content: space-around;
+    text-align: justify;
     margin-top: 1em;
     color: rgb(66, 66, 66);
     font-size: 18px;
+    font-family:"Montserrat"
 }
-h1 {color: rgb(202, 82, 112);
-margin-top: 1em;
-margin-bottom: 1em;}
-h2,h3 {color:rgb(58, 12, 163);
-margin-top: 2em;
-margin-bottom: 2em;}
-h3{margin-bottom: 1em;}
+
+h1 {
+    color: rgb(202, 82, 112);
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-family: "Abril Fatface"
+}
+
+h2,
+h3 {
+    color: rgb(58, 12, 163);
+    margin-top: 2em;
+    margin-bottom: 2em;
+    font-family:"Montserrat"
+}
+
+h3 {
+    margin-bottom: 1em;
+}
+
+.titre {
+    color: rgb(202, 82, 112);
+}
 
 
 .pres {
     position: absolute;
     margin-left: 21.5%;
-    bottom: 0%;
-    display: none; /*position a def quand article fini*/
+    margin-top: 98vw;
 }
+
 .titre {
     color: #d05270;
     font-size: 2vw;
     font-weight: 1000;
 }
+
 .soustitre {
     font-size: 1.75vw;
     color: #4d4d4d;
     font-weight: 500;
 }
+
 .reseaux {
     width: 100%;
     height: 100%;
@@ -104,12 +131,15 @@ h3{margin-bottom: 1em;}
     display: flex;
     color: white;
     font-weight: 600;
+    margin-top: 5%;
 }
+
 .reseauxlink {
     width: fit-content;
     height: fit-content;
     display: flex;
 }
+
 .twitter {
     background-color: #47acdf;
     width: 10vw;
@@ -120,6 +150,7 @@ h3{margin-bottom: 1em;}
     display: flex;
     font-size: 0.8vw;
 }
+
 .linkedin {
     background-color: #1275b1;
     width: 10vw;
@@ -131,6 +162,7 @@ h3{margin-bottom: 1em;}
     font-size: 0.8vw;
     margin-left: 1vw;
 }
+
 .medium {
     background-color: black;
     width: 10vw;
@@ -142,16 +174,29 @@ h3{margin-bottom: 1em;}
     font-size: 0.8vw;
     margin-left: 1vw;
 }
+
 .reseauxlogo {
     height: 19px;
     margin-right: 20px;
 }
+
 .mainimg {
     position: absolute;
     top: 0px;
-    margin-top: -26px;
-    left: 45%;
+    margin-top: 40px;
+    left: 36vw;
 }
+
 .mainimgsize {
-    height: 300px;
+    height: 340px;
+}
+.autdescr {
+    margin-top: 40px;
+    color: #4e4e4e;
+    font-size: 18px;
+    width: 32vw;
+}
+footer {
+    height: 100px;
+    width: 100%;
 }

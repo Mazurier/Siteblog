@@ -2,9 +2,10 @@ a,
 a:link,
 a:visited,
 a:hover,
-a:active{
+a:active {
     text-decoration: none;
 }
+
 header {
     margin-left: 15%;
     position: absolute;
@@ -13,11 +14,13 @@ header {
     height: 14%;
     width: 70%;
 }
+
 .logo {
     margin-left: 10%;
     margin-top: 1.25%;
     width: 10%;
 }
+
 .nav {
     position: absolute;
     right: 0%;
@@ -29,6 +32,7 @@ header {
     text-align: center;
     display: flex;
 }
+
 .boutton1 {
     width: fit-content;
     height: 2vw;
@@ -37,10 +41,11 @@ header {
     text-align: center;
     display: flex;
     text-decoration: none;
-    color: (#170d69);
+    color: #170d69;
     margin-left: 25px;
     font-weight: 1000;
 }
+
 .boutton {
     width: fit-content;
     height: 2vw;
@@ -52,4 +57,30 @@ header {
     color: rgb(117, 117, 117);
     margin-left: 25px;
     font-weight: 1000;
+}
+
+main {
+    margin-left: 21.5%;
+    margin-right: 21.5%;
+}
+
+h1 {
+    color: rgb(202, 82, 112);
+    margin-top: 5em;
+    margin-bottom: 1em;
+    font-family: "Abril Fatface"
+}
+
+p {
+    justify-content: space-around;
+    text-align: justify;
+    margin-top: 1em;
+    color: rgb(66, 66, 66);
+    font-size: 18px;
+    font-family: "Montserrat"
+
+}
+
+span {
+    text-decoration-style: double;
 }
