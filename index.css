@@ -147,7 +147,7 @@ main {
 .article {
     background-color: #ffffff;
     border: 1px solid black;
-    height: 40vw;
+    height: 38vw;
 }
 .articleimg {
     width: 100%;
@@ -164,8 +164,8 @@ main {
     font-weight: 600;
 }
 
-p.texte_rose_souligner{
+.text_rose{
 
     color: #d05270;
-    text-decoration: underline;
+    
 }
