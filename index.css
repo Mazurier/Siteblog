@@ -55,8 +55,14 @@ header {
 }
 
 
-main.div{
-    display: flex;
+h1.texte_rose{
 
+    color: #d05270;
+    
+}
 
+p.texte_rose_souligner{
+
+    color: #d05270;
+    text-decoration: underline;
 }
