@@ -53,3 +53,18 @@ header {
     margin-left: 25px;
     font-weight: 1000;
 }
+.cvpdf {
+    width: 50vw;
+    height: 140vh;
+}
+.cvinfo {
+    width: 100%;
+    position: absolute;
+    margin-top: 8vw;
+    text-align: center;
+}
+h1 {
+    color: #d05270;
+    font-weight: 900;
+    font-size: 40px;
+}
