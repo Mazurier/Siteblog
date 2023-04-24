@@ -1,12 +1,14 @@
 main{position:absolute;
-    margin-left: 21,5%;
-    margin-right: 10%;
-    margin-top: 15%;}
-p {
+    margin-top: 15%;
+    padding:21.5%;}
+
+p {justify-content:space-around;
+    text-align:justify;
     margin-top: 40px;
     margin-left: 21,5%;
-    color: #100f0f;
+    color: rgb(66, 66, 66);
     font-size: 18px;
     width: 40%;
 }
-h1 {color: rgb(226, 43, 226);}
+h1 {color: rgb(202, 82, 112);}
+h2,h3 {color:rgb(58, 12, 163)}
