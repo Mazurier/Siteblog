@@ -136,9 +136,8 @@ p {
 }
 .infoplus {
     position: absolute;
-    bottom: 20%;
-    margin-left: 21.5%;
-    width: 50%;
+    width: 150%;
+    margin-top: 2vh;
 }
 .infocomp {
     font-size: 20px;
