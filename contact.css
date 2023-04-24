@@ -123,7 +123,7 @@ header {
     position: absolute;
     top: 0px;
     margin-top: -26px;
-    left: 45%;
+    left: 33vw;
 }
 .mainimgsize {
     height: 300px;
@@ -132,5 +132,16 @@ p {
     margin-top: 40px;
     color: #4e4e4e;
     font-size: 18px;
-    width: 40%;
+    width: 32vw;
+}
+.infoplus {
+    position: absolute;
+    bottom: 20%;
+    margin-left: 21.5%;
+    width: 50%;
+}
+.infocomp {
+    font-size: 20px;
+    font-weight: 800;
+    margin-top: 1%;
 }
