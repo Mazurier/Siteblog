@@ -140,14 +140,15 @@ main {
     margin-top: 700px;
     margin-left: 21.5%;
     grid-template-columns: 26vw 26vw;
-    grid-template-rows: 40vw 40vw ;
+    grid-template-rows: 40vw ;
     gap: 2%;
-    row-gap: 3%;
+    row-gap: 1.5%;
 }
 .article {
     background-color: #ffffff;
     border: 1px solid black;
     height: 38vw;
+    
 }
 .articleimg {
     width: 100%;
@@ -168,4 +169,9 @@ main {
 
     color: #d05270;
     
+}
+
+.paragraphe{
+
+    font-size: 18px;
 }
