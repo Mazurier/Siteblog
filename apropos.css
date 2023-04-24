@@ -80,3 +80,7 @@ p {
     font-family: "Montserrat"
 
 }
+
+span {
+    text-decoration-style: double;
+}
