@@ -63,9 +63,9 @@ main.div{
 
 .imgc{
     display: grid;
-    grid-template-columns: 10px;
-    grid-template-rows: 10px;
+    height: 5px;
+    grid-template-columns: 10px 10px;
+    grid-template-rows: 10px 10px;
     gap: 10px;
-    margin: 20px;
-    padding: 0%;
+    padding: 10%;
 }}
