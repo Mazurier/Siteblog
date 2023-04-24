@@ -22,7 +22,6 @@ p {
 .logo {
     margin-left: 10%;
     margin-top: 1.25%;
-    width: 10%;
 }
 .nav {
     position: absolute;
@@ -97,7 +96,8 @@ p {
     justify-content: center;
     text-align: center;
     display: flex;
-    font-size: 0.8vw;
+    font-size: 70%;
+    font-weight: 500;
 }
 .linkedin {
     background-color: #1275b1;
@@ -107,7 +107,8 @@ p {
     justify-content: center;
     text-align: center;
     display: flex;
-    font-size: 0.8vw;
+    font-size: 70%;
+    font-weight: 500;
     margin-left: 1vw;
 }
 .medium {
@@ -118,7 +119,8 @@ p {
     justify-content: center;
     text-align: center;
     display: flex;
-    font-size: 0.8vw;
+    font-size: 70%;
+    font-weight: 500;
     margin-left: 1vw;
 }
 .reseauxlogo {
@@ -147,7 +149,7 @@ main {
 .article {
     background-color: #ffffff;
     border: 1px solid black;
-    height: 38vw;
+    height: 30vw;
     
 }
 .articleimg {
@@ -164,14 +166,29 @@ main {
     font-size: 16px;
     font-weight: 600;
 }
+.paragraphe{
+    position: absolute;
+    left: 0%;
+    right: 10%;
+    font-size: 16px;
+    
+}
+.paragraphes{
 
+    position: absolute;
+    left: 52%;
+    font-size: 16px;
+}
 .text_rose{
-
+    
+    color: #d05270;
+    
+}
+.text_roses{
+    
+    
     color: #d05270;
     
 }
 
-.paragraphe{
 
-    font-size: 18px;
-}
