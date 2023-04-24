@@ -96,7 +96,8 @@ p {
     justify-content: center;
     text-align: center;
     display: flex;
-    font-size: 0.8vw;
+    font-size: 70%;
+    font-weight: 500;
 }
 .linkedin {
     background-color: #1275b1;
@@ -106,7 +107,8 @@ p {
     justify-content: center;
     text-align: center;
     display: flex;
-    font-size: 0.8vw;
+    font-size: 70%;
+    font-weight: 500;
     margin-left: 1vw;
 }
 .medium {
@@ -117,7 +119,8 @@ p {
     justify-content: center;
     text-align: center;
     display: flex;
-    font-size: 0.8vw;
+    font-size: 70%;
+    font-weight: 500;
     margin-left: 1vw;
 }
 .reseauxlogo {
