@@ -76,7 +76,7 @@ h1 {
     margin-bottom: 1em;
     font-family:'Times New Roman', Times, serif;
 }    
-h2,h3 {
+.blogdetail,h3 {
     color:rgb(58, 12, 163);
     margin-top: 2em;
     margin-bottom: 2em;
@@ -92,8 +92,7 @@ h3{
 .pres {
     position: absolute;
     margin-left: 21.5%;
-    bottom: 0%;
-    display: none; /*position a def quand article fini*/
+    margin-top: 98vw;
 }
 .titre {
     color: #d05270;
@@ -114,6 +113,7 @@ h3{
     display: flex;
     color: white;
     font-weight: 600;
+    margin-top: 5%;
 }
 .reseauxlink {
     width: fit-content;
@@ -159,9 +159,19 @@ h3{
 .mainimg {
     position: absolute;
     top: 0px;
-    margin-top: -26px;
-    left: 45%;
+    margin-top: 40px;
+    left: 36vw;
 }
 .mainimgsize {
-    height: 300px;
+    height: 340px;
+}
+.autdescr {
+    margin-top: 40px;
+    color: #4e4e4e;
+    font-size: 18px;
+    width: 32vw;
+}
+footer {
+    height: 100px;
+    width: 100%;
 }
