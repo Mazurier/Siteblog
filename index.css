@@ -142,10 +142,10 @@ main {
     display: grid;
     margin-top: 700px;
     margin-left: 21.5%;
-    margin-bottom: 50%;
+    padding-bottom: 20%;
     grid-template-columns: 26vw 26vw;
     gap: 2%;
-    row-gap: 3%;
+    row-gap: 5%;
 }
 .article {
     background-color: #ffffff;
@@ -171,6 +171,7 @@ main {
     right: 10%;
     font-size: 16px;
     width: fit-content;
+    font-family: 'Montserrat', sans-serif;
     
 }
 .text_rose{
