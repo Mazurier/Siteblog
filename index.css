@@ -147,7 +147,7 @@ main {
 .article {
     background-color: #ffffff;
     border: 1px solid black;
-    height: 38vw;
+    height: 30vw;
     
 }
 .articleimg {
@@ -167,13 +167,15 @@ main {
 .paragraphe{
     position: absolute;
     left: 0%;
-    font-size: 18px;
+    right: 10%;
+    font-size: 16px;
     
 }
 .paragraphes{
 
     position: absolute;
     left: 52%;
+    font-size: 16px;
 }
 .text_rose{
     
@@ -181,7 +183,7 @@ main {
     
 }
 .text_roses{
-    position: absolute;
+    
     
     color: #d05270;
     
