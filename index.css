@@ -60,3 +60,12 @@ main.div{
 
 
 }
+
+.imgc{
+    display: grid;
+    grid-template-columns: 10px;
+    grid-template-rows: 10px;
+    gap: 10px;
+    margin: 20px;
+    padding: 0%;
+}}
