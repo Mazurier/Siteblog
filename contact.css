@@ -124,7 +124,7 @@ header {
 }
 .mainimg {
     position: absolute;
-    top: 0px;
+    bottom: 5px;
     left: 33vw;
 }
 .mainimgsize {
