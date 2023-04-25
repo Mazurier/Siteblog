@@ -92,8 +92,11 @@ h3{
 
 .pres {
     display: flex;
+    align-items: center;
+    justify-content: center;
     bottom: 0%;
-    margin-left: 21.5%;
+    left: 0%;
+    width: 100%;
 }
 .titre {
     color: #d05270;
