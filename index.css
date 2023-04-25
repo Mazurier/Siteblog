@@ -60,6 +60,7 @@ p {
 }
 .pres {
     position: absolute;
+    display: flex;
     margin-left: 21.5%;
     margin-top: 15%;
 }
@@ -129,13 +130,11 @@ p {
     margin-right: 20px;
 }
 .mainimg {
-    position: absolute;
     top: 0px;
-    margin-top: -26px;
-    left: 33vw;
+    margin-left: 10%;
 }
 .mainimgsize {
-    height: 300px;
+    height: 18vw;
 }
 main {
     position: absolute;
