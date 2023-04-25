@@ -69,6 +69,7 @@ p {justify-content:space-around;
     margin-top: 1em;
     color: rgb(66, 66, 66);
     font-size: 18px;
+    width: fit-content;
 }
 h1 {
     color: rgb(202, 82, 112);
