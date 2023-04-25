@@ -161,11 +161,12 @@ h3{
 }
 .mainimg {
     top: 0px;
-    margin-top: 40px;
+    margin-top:20px;
+    margin-left: 80px;
     left: 36vw;
 }
 .mainimgsize {
-    height: 340px;
+    height: 250px;
 }
 .autdescr {
     margin-top: 40px;
