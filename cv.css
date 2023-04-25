@@ -59,6 +59,7 @@ header {
 }
 .cvinfo {
     width: 100%;
+    right: 0%;
     position: absolute;
     margin-top: 12vw;
     text-align: center;
