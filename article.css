@@ -58,7 +58,7 @@ header {
 align-items: center;
 }
 
-main{position:absolute;
+main{
     margin-top: 15%;
     margin-left: 21.5%;
     margin-right: 21.5%;
@@ -90,9 +90,9 @@ h3{
 }
 
 .pres {
-    position: absolute;
+    display: flex;
+    bottom: 0%;
     margin-left: 21.5%;
-    margin-top: 98vw;
 }
 .titre {
     color: #d05270;
@@ -160,7 +160,6 @@ h3{
     margin-right: 20px;
 }
 .mainimg {
-    position: absolute;
     top: 0px;
     margin-top: 40px;
     left: 36vw;
