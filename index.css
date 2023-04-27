@@ -140,7 +140,7 @@ p {
 main {
     position: absolute;
     display: grid;
-    margin-top: 700px;
+    margin-top: 500px;
     margin-left: 21.5%;
     padding-bottom: 20%;
     grid-template-columns: 26vw 26vw;
@@ -162,23 +162,26 @@ main {
     color: rgb(66, 66, 66);
 }
 .articletitre {
+    
     color: #d05270;
-    font-size: 16px;
+    font-size: 12px;
     font-weight: 600;
 }
 .paragraphe{
+    margin-top: 3%;
     left: 0%;
     right: 10%;
-    font-size: 16px;
+    font-size: 14px;
     width: fit-content;
     font-family: 'Montserrat', sans-serif;
     
 }
-.text_rose{
+.en_savoir_plus{
+    margin-top: 5px;
     position: absolute;
     color: #d05270;
 }
-.text_rose::after{
+.en_savoir_plus::after{
 
     content: "";
     position: absolute;
