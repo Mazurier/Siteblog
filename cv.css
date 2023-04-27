@@ -63,6 +63,7 @@ header {
     position: absolute;
     margin-top: 12vw;
     text-align: center;
+    padding-bottom: 60px;
 }
 h1 {
     color: #d05270;
