@@ -131,16 +131,17 @@ p {
     margin-right: 20px;
 }
 .mainimg {
+    margin-top: -17%;
     top: 0px;
     margin-left: 10%;
 }
 .mainimgsize {
-    height: 18vw;
+    height: 14vw;
 }
 main {
     position: absolute;
     display: grid;
-    margin-top: 500px;
+    margin-top: 35%;
     margin-left: 21.5%;
     padding-bottom: 20%;
     grid-template-columns: 26vw 26vw;
